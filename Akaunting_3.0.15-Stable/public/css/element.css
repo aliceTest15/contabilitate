@@ -15722,5 +15722,10 @@
    {
        border-right: none !important;
    }
+    
+   .footer container
+   {
+	   visibility: hidden;
+   }
 /*--Date Time Picker Finish--*/
 }
