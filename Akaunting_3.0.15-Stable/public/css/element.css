@@ -15723,7 +15723,7 @@
        border-right: none !important;
    }
     
-   .footer container
+   .footer.footer.container
    {
 	   visibility: hidden;
    }
