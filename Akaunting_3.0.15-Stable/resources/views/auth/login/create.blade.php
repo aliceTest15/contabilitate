@@ -41,14 +41,6 @@
                     input-group-class="input-group-alternative"
                 />
 
-                  <x-form.group.license
-                    name="license"
-                    label="{{ trans('general.license') }}"
-                    placeholder="{{ trans('general.license') }}"
-                    form-group-class="sm:col-span-6"
-                    input-group-class="input-group-alternative"
-					value = "test"
-                />  
                 <div class="sm:col-span-6 flex flex-row justify-between items-center">
                     @stack('remember_input_start')
                     <div>
